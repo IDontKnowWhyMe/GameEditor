@@ -14,19 +14,19 @@ To start using the **EasyGameEditor**, follow these steps:
 
 1. Ensure you have **Pygame** installed. If not, you can install it using:
    
-    pip install pygame
+    ```pip install pygame```
 
 
 3. Clone this repository to your local machine using the following command:
    
-    git clone https://github.com/IDontKnowWhyMe/GameEditor.git
+    ```git clone https://github.com/IDontKnowWhyMe/GameEditor.git```
 
 
 5. Navigate to the repository's directory:
 
-   cd GameEditor
+   ```cd GameEditor```
 
 
 7. Run the game editor by executing the following command:
 
-   python prostredie.py
+   ```python prostredie.py```
